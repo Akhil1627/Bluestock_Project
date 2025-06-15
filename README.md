@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## IPO Management System
 
 The **BlueStock IPO Management System** is designed for listing IPOs with full CRUD (Create, Read, Update, Delete) operations.
@@ -149,3 +150,7 @@ This project is licensed under the Bluestock Fintech License. For more details, 
 ---
 
 
+=======
+# Bluestock_Project
+my_project
+>>>>>>> 153ac3593e70600915e9fb4f8b9e3afcc46ad9ae
